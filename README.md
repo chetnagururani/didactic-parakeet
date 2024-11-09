@@ -9,3 +9,5 @@ sets to create new branch:
    git branch
 2. Creating new branch:
    git checkout -b name_of branch
+3. When pushing new branch write:
+   git push origin name_of_branch
