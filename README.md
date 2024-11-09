@@ -11,3 +11,5 @@ sets to create new branch:
    git checkout -b name_of branch
 3. When pushing new branch write:
    git push origin name_of_branch
+4. When pulling from the new branch:
+   git pull origin name_of_branch
